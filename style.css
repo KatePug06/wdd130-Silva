@@ -1,0 +1,15 @@
+main{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+#family, #farm, #station{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
